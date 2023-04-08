@@ -1,0 +1,23 @@
+*DATOS PERSONALES:
+Nombre: Juan Cruz Larcher
+Edad: 17 años
+Correo: juancruzlarcher07@gmail.com
+Residencia: Saenz Peña 851- Cruz del Eje- Córdoba- Argentina
+
+*Experiencias positivas
+
+El ambiente de trabajo y estudio es muy bueno, veo gente muy unida y trabajadora, los profesores son buenos a la hora de explicar
+
+*Experiencias negativas:
+
+A veces se me complica un poco por el tema de no tener una notebook o también que me inscribí justo cuando las clases comenzaron y se me dificulta un poco entender
+
+*Habilidades congnitivas: Razonamiento- Atención- Comprensión.
+
+Comandos utilizados en git :
+git init
+git status
+git add
+git commit
+git push
+
